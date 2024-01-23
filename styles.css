@@ -1,0 +1,18 @@
+.member_box{
+    
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+.member_box img{
+    margin-bottom: 30px;
+    position: relative;
+    top: 0px;
+    transform: all 1.60s;;
+}
+.member_box:hover img{
+    top: -20px;
+    
+}
